@@ -54,7 +54,7 @@ Windows : <kbd>Ctrl</kbd> + <kbd>R</kbd>
         <kbd><img src="https://image.lgtmoon.dev/93186" alt="alt" width="100%"></kbd>
     </div>
         
-    <kbd><img src="https://image.lgtmoon.dev/93186" alt="alt" width="80%"></kbd>
+    <kbd><img src="https://image.lgtmoon.dev/93186" alt="alt" width="80%"></kbd>  
     <kbd><img src="https://image.lgtmoon.dev/93186" alt="alt" width="100%"></kbd>
 
     <br>
