@@ -1,5 +1,10 @@
 # GitHubのREADME.mdで使用できる画像の装飾
 
+## ショートカットを表す場合
+
+Mac : <kbd>⌘</kbd> + <kbd>R</kbd>
+Windows <kbd>Ctrl</kbd> + <kbd>R</kbd>
+
 ## 中央寄せ
 ```markdown
 <div align="center">
@@ -39,16 +44,7 @@
     <kbd><img src="images/heroku_cli_01.png" alt="alt" width="100%"></kbd>
 
     <br>
-
-- code
-    ```markdown
-    <code><img src="images/heroku_cli_01.png" alt="alt" width="80%"></code>
-    <code><img src="images/heroku_cli_01.png" alt="alt" width="100%"></code>
-    ```
-    <code><img src="images/heroku_cli_01.png" alt="alt" width="80%"></code>
-    <code><img src="images/heroku_cli_01.png" alt="alt" width="100%"></code>
-
-    <br>
+    
 
 ## 使えなかった
 ### styleタグ
