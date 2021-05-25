@@ -30,19 +30,12 @@ Windows : <kbd>Ctrl</kbd> + <kbd>R</kbd>
     <kbd><img src="https://image.lgtmoon.dev/93186" alt="alt" width="100%"></kbd>
     ```
 
-    <div align="center">
-        <kbd><img src="https://image.lgtmoon.dev/93186" alt="alt" width="80%"></kbd>
-    </div>
-    <div align="center">
-        <kbd><img src="https://image.lgtmoon.dev/93186" alt="alt" width="100%"></kbd>
-    </div>
-        
     <kbd><img src="https://image.lgtmoon.dev/93186" alt="alt" width="80%"></kbd>  
     <kbd><img src="https://image.lgtmoon.dev/93186" alt="alt" width="100%"></kbd>
 
     <br>
 
-- kbd センタリング
+- kbd + センタリング
     ```markdown
     <div align="center">
         <kbd><img src="https://image.lgtmoon.dev/93186" alt="alt" width="80%"></kbd>
