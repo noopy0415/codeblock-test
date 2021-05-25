@@ -18,7 +18,7 @@
     ```markdown
     |<img src="images/heroku_cli_01.png" alt="alt" width="80%">|
     |:-:|
-    
+
     |<img src="images/heroku_cli_01.png" alt="alt" width="100%">|
     |:-:|
     ```
@@ -37,6 +37,16 @@
     ```
     <kbd><img src="images/heroku_cli_01.png" alt="alt" width="80%"></kbd>
     <kbd><img src="images/heroku_cli_01.png" alt="alt" width="100%"></kbd>
+
+    <br>
+
+- code
+    ```markdown
+    <code><img src="images/heroku_cli_01.png" alt="alt" width="80%"></code>
+    <code><img src="images/heroku_cli_01.png" alt="alt" width="100%"></code>
+    ```
+    <code><img src="images/heroku_cli_01.png" alt="alt" width="80%"></code>
+    <code><img src="images/heroku_cli_01.png" alt="alt" width="100%"></code>
 
     <br>
 
