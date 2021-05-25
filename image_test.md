@@ -37,9 +37,23 @@ Windows : <kbd>Ctrl</kbd> + <kbd>R</kbd>
 
 - kbd
     ```markdown
+    <div align="center">
+        <kbd><img src="images/heroku_cli_01.png" alt="alt" width="80%"></kbd>
+    </div>
+    <div align="center">
+        <kbd><img src="images/heroku_cli_01.png" alt="alt" width="100%"></kbd>
+    </div>
+        
     <kbd><img src="images/heroku_cli_01.png" alt="alt" width="80%"></kbd>
     <kbd><img src="images/heroku_cli_01.png" alt="alt" width="100%"></kbd>
     ```
+    <div align="center">
+        <kbd><img src="images/heroku_cli_01.png" alt="alt" width="80%"></kbd>
+    </div>
+    <div align="center">
+        <kbd><img src="images/heroku_cli_01.png" alt="alt" width="100%"></kbd>
+    </div>
+        
     <kbd><img src="images/heroku_cli_01.png" alt="alt" width="80%"></kbd>
     <kbd><img src="images/heroku_cli_01.png" alt="alt" width="100%"></kbd>
 
