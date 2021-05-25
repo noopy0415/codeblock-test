@@ -13,22 +13,23 @@
 <br>
 
 ## 枠
-```markdown
-|<img src="images/heroku_cli_01.png" alt="alt">|
-|:-:|
-```
-|<img src="images/heroku_cli_01.png" alt="alt">|
-|:-:|
+- listでやる
+    ```markdown
+    |<img src="images/heroku_cli_01.png" alt="alt" width="80%">|
+    |:-:|
+    ```
+    |<img src="images/heroku_cli_01.png" alt="alt" width="80%">|
+    |:-:|
 
-<br>
+    <br>
 
-```markdown
-<kbd><img src="images/heroku_cli_01.png" alt="alt"></kbd>
+- kbd
+    ```markdown
+    <kbd><img src="images/heroku_cli_01.png" alt="alt" width="80%"></kbd>
+    ```
+    <kbd><img src="images/heroku_cli_01.png" alt="alt" width="80%"></kbd>
 
-```
-<kbd><img src="images/heroku_cli_01.png" alt="alt"></kbd>
-
-<br>
+    <br>
 
 ## 使えなかった
 ### styleタグ
