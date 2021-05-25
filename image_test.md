@@ -13,6 +13,7 @@
 <br>
 
 ## 枠
+幅を指定すると隙間が気になる
 - listでやる
     ```markdown
     |<img src="images/heroku_cli_01.png" alt="alt" width="80%">|
@@ -26,8 +27,10 @@
 - kbd
     ```markdown
     <kbd><img src="images/heroku_cli_01.png" alt="alt" width="80%"></kbd>
+    <kbd><img src="images/heroku_cli_01.png" alt="alt" width="100%"></kbd>
     ```
     <kbd><img src="images/heroku_cli_01.png" alt="alt" width="80%"></kbd>
+    <kbd><img src="images/heroku_cli_01.png" alt="alt" width="100%"></kbd>
 
     <br>
 
