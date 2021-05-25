@@ -18,11 +18,13 @@
     ```markdown
     |<img src="images/heroku_cli_01.png" alt="alt" width="80%">|
     |:-:|
+    
     |<img src="images/heroku_cli_01.png" alt="alt" width="100%">|
     |:-:|
     ```
     |<img src="images/heroku_cli_01.png" alt="alt" width="80%">|
     |:-:|
+
     |<img src="images/heroku_cli_01.png" alt="alt" width="100%">|
     |:-:|
 
