@@ -3,7 +3,7 @@
 ## ショートカットを表す場合
 
 Mac : <kbd>⌘</kbd> + <kbd>R</kbd>  
-Windows <kbd>Ctrl</kbd> + <kbd>R</kbd>
+Windows : <kbd>Ctrl</kbd> + <kbd>R</kbd>
 
 ## 中央寄せ
 ```markdown
