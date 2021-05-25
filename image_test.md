@@ -6,6 +6,7 @@ Mac : <kbd>⌘</kbd> + <kbd>R</kbd>
 Windows : <kbd>Ctrl</kbd> + <kbd>R</kbd>
 
 ## 枠
+枠線を付けるのに応用できる
 幅を指定すると隙間が気になるけどlistとほぼ同じ使い方でできるかな
 
 - listでやる
