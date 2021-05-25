@@ -8,11 +8,11 @@ Windows : <kbd>Ctrl</kbd> + <kbd>R</kbd>
 ## 中央寄せ
 ```markdown
 <div align="center">
-    <img src="![LGTM](https://image.lgtmoon.dev/75349)" alt="alt" width="80%">
+    <img src="https://image.lgtmoon.dev/75349" alt="alt" width="80%">
 </div>
 ```
 <div align="center">
-    <img src="![LGTM](https://image.lgtmoon.dev/75349)" alt="alt" width="80%">
+    <img src="https://image.lgtmoon.dev/75349" alt="alt" width="80%">
 </div>
 
 <br>
@@ -21,16 +21,16 @@ Windows : <kbd>Ctrl</kbd> + <kbd>R</kbd>
 幅を指定すると隙間が気になる
 - listでやる
     ```markdown
-    |<img src="![LGTM](https://image.lgtmoon.dev/75349)" alt="alt" width="80%">|
+    |<img src="https://image.lgtmoon.dev/75349" alt="alt" width="80%">|
     |:-:|
 
-    |<img src="![LGTM](https://image.lgtmoon.dev/75349)" alt="alt" width="100%">|
+    |<img src="https://image.lgtmoon.dev/75349" alt="alt" width="100%">|
     |:-:|
     ```
-    |<img src="![LGTM](https://image.lgtmoon.dev/75349)" alt="alt" width="80%">|
+    |<img src="https://image.lgtmoon.dev/75349" alt="alt" width="80%">|
     |:-:|
 
-    |<img src="![LGTM](https://image.lgtmoon.dev/75349)" alt="alt" width="100%">|
+    |<img src="https://image.lgtmoon.dev/75349" alt="alt" width="100%">|
     |:-:|
 
     <br>
@@ -38,24 +38,24 @@ Windows : <kbd>Ctrl</kbd> + <kbd>R</kbd>
 - kbd
     ```markdown
     <div align="center">
-        <kbd><img src="![LGTM](https://image.lgtmoon.dev/75349)" alt="alt" width="80%"></kbd>
+        <kbd><img src="https://image.lgtmoon.dev/75349" alt="alt" width="80%"></kbd>
     </div>
     <div align="center">
-        <kbd><img src="![LGTM](https://image.lgtmoon.dev/75349)" alt="alt" width="100%"></kbd>
+        <kbd><img src="https://image.lgtmoon.dev/75349" alt="alt" width="100%"></kbd>
     </div>
         
-    <kbd><img src="![LGTM](https://image.lgtmoon.dev/75349)" alt="alt" width="80%"></kbd>
-    <kbd><img src="![LGTM](https://image.lgtmoon.dev/75349)" alt="alt" width="100%"></kbd>
+    <kbd><img src="https://image.lgtmoon.dev/75349" alt="alt" width="80%"></kbd>
+    <kbd><img src="https://image.lgtmoon.dev/75349" alt="alt" width="100%"></kbd>
     ```
     <div align="center">
-        <kbd><img src="![LGTM](https://image.lgtmoon.dev/75349)" alt="alt" width="80%"></kbd>
+        <kbd><img src="https://image.lgtmoon.dev/75349" alt="alt" width="80%"></kbd>
     </div>
     <div align="center">
-        <kbd><img src="![LGTM](https://image.lgtmoon.dev/75349)" alt="alt" width="100%"></kbd>
+        <kbd><img src="https://image.lgtmoon.dev/75349" alt="alt" width="100%"></kbd>
     </div>
         
-    <kbd><img src="![LGTM](https://image.lgtmoon.dev/75349)" alt="alt" width="80%"></kbd>
-    <kbd><img src="![LGTM](https://image.lgtmoon.dev/75349)" alt="alt" width="100%"></kbd>
+    <kbd><img src="https://image.lgtmoon.dev/75349" alt="alt" width="80%"></kbd>
+    <kbd><img src="https://image.lgtmoon.dev/75349" alt="alt" width="100%"></kbd>
 
     <br>
     
@@ -68,5 +68,5 @@ img {
     border: 1px red solid;
 }
 </style>
-<img src="![LGTM](https://image.lgtmoon.dev/75349)" alt="alt" border="1px">
+<img src="https://image.lgtmoon.dev/75349" alt="alt" border="1px">
 ```
